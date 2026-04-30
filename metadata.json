@@ -1,0 +1,6 @@
+{
+  "name": "Fútbol Mix: Armador de Equipos",
+  "description": "Una aplicación para organizar partidos equilibrados. Carga jugadores por posición y nivel para generar equipos balanceados automáticamente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
